@@ -1,0 +1,11 @@
+Data
+.Rhistory
+*.BAK
+*.Rproj
+*.lst
+*.gdx
+*.lxi
+*.exe
+*.log
+.Rproj.user
+
